@@ -1,0 +1,10 @@
+{
+  "name": "hello-type-script-vs",
+  "version": "0.0.0",
+  "description": "HelloTypeScriptVS",
+  "main": "app.js",
+  "author": {
+    "name": "Pavan",
+    "email": ""
+  }
+}
